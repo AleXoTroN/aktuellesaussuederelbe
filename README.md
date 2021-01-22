@@ -1,4 +1,5 @@
 # #Süderelbe
+![Aktuelles aus Süderelbe-Banner](https://lh3.googleusercontent.com/lw24WmWONqyKCLO2XE-WDddQ3qhJJ_Rp8AAKqhmXq0OKDzmyH-_8ZZ7iYC9QlLDHtw)
 
 Der erste offizielle Prototyp der Aktuelles aus Süderelbe-App
 
