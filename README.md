@@ -9,8 +9,8 @@
 Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im Google Play Store herunterladen. Ist dem nicht so, kannst du gerne über diese Seite mal reinschnuppern! ;)
 
 ## **Versionen:**
-* 1.1 (21012020-0057)
-  * behebt Absturz beim ersten Ausführen
+* 1.1 (22012020-0255)
+  * App-Icon
   * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
 
 ## **Entwicklungsstand:**
