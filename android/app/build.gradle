@@ -41,7 +41,7 @@ android {
 
     defaultConfig {
         applicationId "de.addcreations.suederelbe"
-        minSdkVersion 16
+        minSdkVersion 23
         targetSdkVersion 29
         versionCode 6
         versionName "1.1"

@@ -11,7 +11,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="Süderelbe"
         android:appCategory="news"
-        android:description="Die offizielle Aktuelles aus Süderelbe-App!"
+
         android:logo="@mipmap/ic_launcher"
         android:icon="@mipmap/ic_launcher"
         >
