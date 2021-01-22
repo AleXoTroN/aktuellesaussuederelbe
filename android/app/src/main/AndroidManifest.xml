@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.suederelbe">
     <uses-permission android:name="android.permission.INTERNET"/>
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
@@ -9,7 +10,11 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="Süderelbe"
-        android:icon="@mipmap/ic_launcher">
+        android:appCategory="news"
+        android:description="Die offizielle Aktuelles aus Süderelbe-App!"
+        android:logo="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_launcher"
+        >
         <activity
             android:name="de.addcreations.suederelbe.MainActivity"
             android:launchMode="singleTop"
