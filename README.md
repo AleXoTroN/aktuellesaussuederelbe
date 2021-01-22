@@ -12,12 +12,12 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
   * behebt Absturz beim ersten Ausführen
   * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
 
-- Entwicklungsstand:
-- Artikel abrufen
-- Artikel als Detailansicht
-- Artikel können in Leselisten gespeichert (offline verfügbar)
-- Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
-- Likes (Artikel)
-- Kommentare (Artikel)
-- In-App-Werbung
-- Einstellungen
+**Entwicklungsstand:**
+:white_check_mark: Artikel abrufen
+:white_check_mark: Artikel als Detailansicht
+:white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
+:white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
+:white_large_square: Likes (Artikel)
+:white_large_square: Kommentare (Artikel)
+:white_large_square: In-App-Werbung
+:white_large_square: Einstellungen
