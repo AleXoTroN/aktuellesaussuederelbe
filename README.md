@@ -13,11 +13,11 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
   * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
 
 **Entwicklungsstand:**
-:white_check_mark: Artikel abrufen
-:white_check_mark: Artikel als Detailansicht
-:white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
-:white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
-:white_large_square: Likes (Artikel)
-:white_large_square: Kommentare (Artikel)
-:white_large_square: In-App-Werbung
-:white_large_square: Einstellungen
+- :white_check_mark: Artikel abrufen
+- :white_check_mark: Artikel als Detailansicht
+- :white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
+- :white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
+- :white_large_square: Likes (Artikel)
+- :white_large_square: Kommentare (Artikel)
+- :white_large_square: In-App-Werbung
+- :white_large_square: Einstellungen
