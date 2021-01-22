@@ -13,9 +13,11 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
   * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
 
 Entwicklungsstand:
+- [x] Artikel abrufen
+- [x] Artikel als Detailansicht
 - [ ] Artikel können in Leselisten gespeichert (offline verfügbar)
 - [ ] Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
 - [ ] Likes (Artikel)
 - [ ] Kommentare (Artikel)
 - [ ] In-App-Werbung
-- [x] Einstellungen
+- [ ] Einstellungen
