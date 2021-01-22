@@ -9,6 +9,10 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
 
 **Versionen:**
 * 1.1 (21012020-0057)
-  * • behebt Absturz beim ersten Ausführen
-  * [**Download**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
+  * behebt Absturz beim ersten Ausführen
+  * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
