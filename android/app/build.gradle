@@ -43,9 +43,8 @@ android {
         applicationId "de.addcreations.suederelbe"
         minSdkVersion 23
         targetSdkVersion 29
-        versionCode 6
-        versionName "1.1"
-        versionNameSuffix "-HOTFIX-21012022-0125"
+        versionCode 8
+        versionName "1.2"
 
     }
 
