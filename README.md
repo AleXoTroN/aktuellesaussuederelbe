@@ -9,14 +9,16 @@
 Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im Google Play Store herunterladen. Ist dem nicht so, kannst du gerne über diese Seite mal reinschnuppern! ;)
 
 ## **Versionen:**
-* 1.1 (22012020-0255)
+* 1.2
   * App-Icon
-  * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/APKs/app-release.apk)
+  * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/android/app/release/app-release.apk)
 
 ## **Entwicklungsstand:**
 - :white_check_mark: Artikel abrufen
 - :white_check_mark: Artikel als Detailansicht
-- :white_large_square: Nachtmodus (dunkles Design)
+- :white_check_mark: Kommentare anzeigen
+- :white_check_mark: Nachtmodus (dunkles Design)
+- :white_check_mark: Meldung wenn beim Start keine Internetverbindung besteht (dunkles Design)
 - :white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
 - :white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
 - :white_large_square: Likes (Artikel)
