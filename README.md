@@ -10,7 +10,11 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
 
 ## **Versionen:**
 * 1.2
-  * App-Icon
+  * Kommentare abrufen
+  * Nachtmodus verbessert
+  * Design überarbeitet
+  * Meldung bei nicht bestehender Internetverbindung beim Start
+  * Bugfixes
   * [**Download .apk**](https://github.com/AleXoTroN/aktuellesaussuederelbe/raw/master/android/app/release/app-release.apk)
 
 ## **Entwicklungsstand:**
