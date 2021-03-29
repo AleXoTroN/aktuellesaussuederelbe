@@ -19,9 +19,13 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
 - :white_check_mark: Kommentare anzeigen
 - :white_check_mark: Nachtmodus (dunkles Design)
 - :white_check_mark: Meldung wenn beim Start keine Internetverbindung besteht (dunkles Design)
-- :white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
+- :white_square_button: Artikel können in Leselisten gespeichert (offline verfügbar)
 - :white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
 - :white_large_square: Likes (Artikel)
 - :white_large_square: Kommentare (Artikel)
 - :white_large_square: In-App-Werbung
 - :white_large_square: Einstellungen
+
+:white_check_mark:: fertiggestellt\
+:white_square_button:: in Entwicklung\
+:white_large_square:: ausstehend
