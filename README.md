@@ -16,6 +16,7 @@ Wurdest du ins Alphaprogramm eingeladen, so kannst du sie dir ganz exklusiv im G
 ## **Entwicklungsstand:**
 - :white_check_mark: Artikel abrufen
 - :white_check_mark: Artikel als Detailansicht
+- :white_large_square: Nachtmodus (dunkles Design)
 - :white_large_square: Artikel können in Leselisten gespeichert (offline verfügbar)
 - :white_large_square: Bei schlechter Internetverbindung wird der Feed der letzten Sitzung angezeigt
 - :white_large_square: Likes (Artikel)
